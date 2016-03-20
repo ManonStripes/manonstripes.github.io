@@ -1,0 +1,32 @@
+# Site settings
+title: Manon Potier Portfolio
+email: manonstripes@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Graphic Design & things I like
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter: # twitter_username
+github:  ManonStripes
+linkedin: manon-potier-36b74210a
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+
+
+
+
