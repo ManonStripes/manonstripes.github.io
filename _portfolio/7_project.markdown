@@ -17,9 +17,7 @@ Date : 2014<br/>
 Status : Closed<br/>
 ---
 </p>
-Après la refonte de l'identité de Natexo, nous cherchions une manière d'impliquer chacun des employés de l'entreprise. En respectant l'iconographie de la marque, nous avons créé des avatars pour chacun de nos employés.
-
-L'exercice est une grande réussite, les Natexiens arborent avec fierté leur personnage sur les réseaux sociaux.
+Texte en cours d'écriture
 
 
 <div class="img_row">
