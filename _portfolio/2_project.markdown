@@ -17,7 +17,6 @@ Date : 2016<br/>
 Status : Achieved<br/>
 ---
 </p>
-Texte en cours d'écriture
 
 
 <div class="img_row">

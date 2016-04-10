@@ -17,3 +17,6 @@ Date : 2016<br/>
 Status : Work in Progress<br/>
 ---
 </p>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/archerry-story.jpg" alt="" title="Archerry Story"/>
+</div>

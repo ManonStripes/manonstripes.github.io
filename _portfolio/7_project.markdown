@@ -17,7 +17,7 @@ Date : 2014<br/>
 Status : Closed<br/>
 ---
 </p>
-Texte en cours d'écriture
+
 
 
 <div class="img_row">

@@ -17,7 +17,7 @@ Date : 2015-Now<br/>
 Status : Developing<br/>
 ---
 </p>
-Texte en cours d'écriture
+
 
 
 <div class="img_row">
