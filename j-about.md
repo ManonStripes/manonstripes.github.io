@@ -14,6 +14,7 @@ I am also a spaceships and dinosaurs enthusiast, a fierce athlete, a nice cook, 
 
 <b>Dream Projects & clients:</b><br/>
 Pixel Artist <br/>
+Board Game <br/>
 Pop Up Book <br/>
 Fashion Sport<br/>
 Arte<br/>

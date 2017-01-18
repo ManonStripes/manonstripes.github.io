@@ -161,6 +161,7 @@ font-size: 24px;
 font-weight: 700;
 color : $black-color;
 padding-left: 10px;
+padding-bottom: 10px;
 
 
 @include media-query($on-laptop) {
@@ -170,15 +171,21 @@ font-size: 24px;
 
 .post-content {
 h2 {
-font-size: 42px;
+font-size: 25px;
+padding-left: 10px;
+padding-top: 10px;
+color: $grey-color;
 @include media-query($on-laptop) {
-font-size: 28px;
+font-size: 18px;
         }
     }
 h3 {
-font-size: 30px;
+font-size: 25px;
+font-weight: bold;
+padding-left: 10px;
+padding-bottom: 5px;
 @include media-query($on-laptop) {
-font-size: 22px;
+font-size: 25px;
         }
     }
 h4 {
@@ -196,12 +203,13 @@ p{
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
+margin-bottom: 0px;
 }
 .post-link {
 display: block;
 font-size: 42px;
 }
+
 
 /** Poem formatting ********************************************/
 .poem-title {
@@ -211,6 +219,40 @@ line-height: 1;
 @include media-query($on-laptop) {
 font-size: 16px;
     }
+}
+.blog-title{
+    font-size: 30px;
+    font-weight: 700;
+    color : $black-color;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    @include media-query($on-laptop) {
+        font-size: 24px;
+    }
+
+}
+p.post-blog{
+    font-size: 18px;
+    line-height: 30px;
+}
+p.post-blog i{
+   font-weight: 100;
+}
+p.post-blog b{
+   font-weight: 600;
+}
+.blog-content{
+    width: 75%;
+    margin: 0 auto;
+}
+.word-hightlight{
+    font-family: monospace;
+    background: #ddd;
+    font-size: 15px;
+    color: #8b8b8b;
+    padding: 4px 6px;
+    border-radius: 3px;
+    width: -moz-fit-content;
 }
 
 
@@ -330,4 +372,22 @@ color: $grey-color;
 text-align: left;
 vertical-align: middle;
 font-size: 10px;
+}
+p.caption-blog {
+height: 100%;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: $grey-color;
+text-align: center;
+vertical-align: middle;
+font-size: 10px;
+}
+p.caption-music {
+height: 100%;
+letter-spacing: 1px;
+text-transform: uppercase;
+color: $grey-color;
+text-align: center;
+vertical-align: middle;
+font-size: 13px;
 }
