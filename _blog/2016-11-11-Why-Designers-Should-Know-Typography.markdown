@@ -66,7 +66,7 @@ I then discovered css attributes about ligatures. What a wonderful world we are 
 -moz-font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
 -o-font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
 font-feature-settings: 'liga' 0, 'onum' 1, 'kern' 1;
-{% endhighlight %}<br/><br/>
+{% endhighlight %}
 
 <p class="post-blog"><font class="word-hightlight">font-feature-settings</font> gives you access to a bunch of advanced typographic settings, among them: ligature!<br/>
 With <font class="word-hightlight">0</font> , we chose to disable the automatic use of ligatures, which made the letter ‘f’ appear again. Victory is mine!</p>

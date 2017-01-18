@@ -32,11 +32,11 @@ But when you are a designer, being in couple with a developer is not always an a
 <p class="post-blog">For instance, you could find that your TV is displaying, as an opening screen, the monitoring of your boyfriend's servers... Using a renown soft that you probably never heard of, called <a href="https://mmonit.com/monit/">Monit</a>.  </p>
 
 
-<p class="caption-music">[&#9836; Musical Suspens &#9836;] </p>
+<p class="caption-music">[&#9836; Musical Suspense &#9836;] </p>
 
 
 
-<p class="post-blog">Monit is an Open Source utility for managing and monitoring servers, and if you are a sysadmin, you can only praise this project. However if you have Monit as welcome screen of a 42'' TV, it makes your eyes bleed, too much bright white. </p>
+<p class="post-blog">Monit is an Open Source utility for managing and monitoring servers, and if you are a sysadmin, you can only praise this project. However if you have Monit as a welcome screen of a 42'' TV, it makes your eyes bleed, the white is simply too bright. </p>
 
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/img/Monit-blog1.jpg" alt="" title="Monit Screenshot"/><br/>
@@ -47,7 +47,7 @@ But when you are a designer, being in couple with a developer is not always an a
 
 
 
-<p class="post-blog">I needed to fix this quickly. So after 3 months of procrastination, I took the 3 hours required to modify Monit's CSS and create a dark theme which reduces the retinal aggression. <br/><br/>
+<p class="post-blog">I had to fix this quickly. So after 3 months of procrastination, I took the 3 hours required to modify Monit's CSS and create a dark theme which reduces the retinal aggression. <br/><br/>
 
 Sharing this with the world now, as it is done and easy to upgrade. </p>
 
