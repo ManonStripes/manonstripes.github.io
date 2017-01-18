@@ -25,7 +25,7 @@ Last year, as the lead designer of a small R&D Team at Natexo Group, I accidenta
 
 <p class="post-blog">There was a typo on one of our client’s website. The word ‘profit’ appeared as ‘proit’.</p>
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/typography-blog1.jpg" alt="" title="Ligatures"/><br/>
+    <img class="col three" src="{{ site.baseurl }}/img/Typography-blog1.jpg" alt="" title="Ligatures"/><br/>
 </div>
 
 <p class="post-blog"><br/>Our unfortunate front end dev, who is at the bottom of the command chain, received all the blames. But he vigorously argued for his innocence :<br/>
@@ -41,7 +41,7 @@ I stayed longer facing my screen, trying to understand what we missed and then�
 <p class="post-blog">Yes, that’s the reaction my team had when I said the word. A term they didn’t hear in their whole life. And probably won’t remember the next morning.<br/>
 When two or more letters are combined in one character, you have a ligature.</p>
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/typography-blog2.jpg" alt="" title="Ligatures"/><br/>
+    <img class="col three" src="{{ site.baseurl }}/img/Typography-blog2.jpg" alt="" title="Ligatures"/><br/>
 </div>
 <p class="caption-blog">Examples: « œ » in french, « ß » in german and the whole world with « & », yes! You didn’t know that the ampersand character is e and t combined, because « et » in latin means “and”</p>
 
@@ -51,7 +51,7 @@ When two or more letters are combined in one character, you have a ligature.</p>
     <li><p class="post-blog"><b>Technical ligatures:</b> Legacy of the printing rules about readability, ligatures prevent two letters to collide on the paper. Especially with f.</p></li>
 </ul>
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/img/typography-blog3.jpg" alt="" title="Ligatures"/><br/>
+    <img class="col three" src="{{ site.baseurl }}/img/Typography-blog3.jpg" alt="" title="Ligatures"/><br/>
 </div>
 <p class="caption-blog">Especially with f</p>
 
