@@ -29,7 +29,7 @@ But when you are a designer, being in couple with a developer is not always an a
 
 
 
-<p class="post-blog">For instance, you could find that your TV is displaying, as an opening screen, the monitoring of your boyfriend's servers... Using a renown soft that you probably never heard of, called Monit.  </p>
+<p class="post-blog">For instance, you could find that your TV is displaying, as an opening screen, the monitoring of your boyfriend's servers... Using a renown soft that you probably never heard of, called <a href="https://mmonit.com/monit/">Monit</a>.  </p>
 
 
 <p class="caption-music">[&#9836; Musical Suspens &#9836;] </p>
@@ -84,14 +84,14 @@ Sharing this with the world now, as it is done and easy to upgrade. </p>
 <p class="post-blog">Get the <a href="https://mmonit.com/monit/dist/monit-5.20.0.tar.gz">source</a> and extract it. <br/>
 
 Replace <font class="word-hightlight">src/http/cervlet.c</font> with this <a href="https://gist.github.com/ManonStripes/e6c6709e5fa4a99c330371e0fdf90277">file</a>.<br/>
-Then type the following command line</p>
-{% highlight shell %}./bootstrap{% endhighlight %} 
-
-{% highlight shell %}./configure{% endhighlight %}
-
-{% highlight shell %}make{% endhighlight %}
-
-{% highlight shell %}make install{% endhighlight %} 
+Then type the following command lines</p>
+{% highlight shell %}./bootstrap
+./configure
+make
+make install{% endhighlight %}
+<p class="post-blog">Start monit service:
+{% highlight shell %}/usr/local/bin/monit{% endhighlight %}
+</p>
 
 <p class="post-blog">Tadaaa, it is running!</p>
 
@@ -99,5 +99,5 @@ Then type the following command line</p>
 
 <p class="post-blog">If you already installed it with your package manager, edit the service file and point it to the correct binary (in /usr/local/bin)<br/><br/>
 
-<b>Note</b>: You might want to install the following packages autoconf, autogen, automake, libtool and libssl-dev.</p>
+<b>Note</b>: You might want to install the following packages: <font class="word-hightlight">autoconf</font>, <font class="word-hightlight">autogen</font>, <font class="word-hightlight">automake</font>, <font class="word-hightlight">libtool</font> and <font class="word-hightlight">libssl-dev</font>.</p>
 </div> 
