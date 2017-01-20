@@ -23,7 +23,9 @@ $grey-color:       #8b8b8b;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$on-mobile:        400px;
 $on-palm:          600px;
+$on-tablet:        800px;
 $on-laptop:        965px;
 
 
