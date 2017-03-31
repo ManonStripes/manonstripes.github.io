@@ -1,0 +1,38 @@
+---
+layout: post
+title: Introducing Light Hunters
+date: 2017-03-30 - 00:00
+---
+
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/img/cover-Light-Hunters.jpg" alt="" title="Light Hunters"/><br/>
+</div>
+<p class="caption-blog">
+Light Hunters | Batallion of Darkness - A fantasy fighting card game</p>
+
+<div class="blog-content">
+<h1 class="blog-title">Introducing Light Hunters</h1>
+
+<h2>A Cooperative Board Game</h2>
+<br/>
+<p class="post-blog">After months of exciting works, I am overly proud to introduce my current project, Light Hunters – an upcoming board game on its way to be crownfunded.<br/><br/>
+
+Working on this project with my former classmate and now colleague Serge Rodrigues, was an amazing experience. We spend so many hours to polish this game (still polishing it right now) and create a fun fantasy and cooperative game but easy and accessible.<br/><br/>
+
+I illustrated and designed each part of the game to bring the player in our mystical universe, but I'll keep the details for a longer post about the whole process. We'll soon release more infos, but for now, i am sharing a few snaps of the illustrations.</p>
+
+
+<div class="videoWrapperOuter">
+<div class="img_row videoWrapperInner">
+<iframe class="videoWrapperInner" width="640" height="360" src="https://www.youtube.com/embed/l8LXOMG7oys?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<p class="caption-blog">
+Speed Painting of a card</p>
+<div class="img_row"><br/>
+    <img class="col three" src="{{ site.baseurl }}/img/Light-Hunters-Drawings.jpg" alt="" title="Light Hunters Artwork"/><br/>
+</div>
+<p class="caption-blog">
+Some pieces of the artworks</p>
+
+</div>
