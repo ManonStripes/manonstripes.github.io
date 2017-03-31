@@ -15,11 +15,11 @@ Light Hunters | Batallion of Darkness - A fantasy fighting card game</p>
 
 <h2>A Cooperative Board Game</h2>
 <br/>
-<p class="post-blog">After months of exciting works, I am overly proud to introduce my current project, Light Hunters – an upcoming board game on its way to be crownfunded.<br/><br/>
+<p class="post-blog">After months of exciting work, I am incredibly proud to introduce my current project, Light Hunters – an upcoming fantasy board game on its way to be crowdfunded.<br/><br/>
 
-Working on this project with my former classmate and now colleague Serge Rodrigues, was an amazing experience. We spend so many hours to polish this game (still polishing it right now) and create a fun fantasy and cooperative game but easy and accessible.<br/><br/>
+Working on this project with my former classmate and now colleague <a href="http://www.dtda.fr">Serge Rodrigues</a>, was an amazing experience. We spent so many hours to polish this game (still polishing it right now) and create a fun fighting game, cooperative and accessible.<br/><br/>
 
-I illustrated and designed each part of the game to bring the player in our mystical universe, but I'll keep the details for a longer post about the whole process. We'll soon release more infos, but for now, i am sharing a few snaps of the illustrations.</p>
+I illustrated and designed each part of the game to bring the player in our mystical universe, but I'll keep the details for a longer post about the whole process. We'll soon release more infos, but for now, I am sharing a few snaps of the illustrations and the video below showing a speed drawing with black ink.</p>
 
 
 <div class="videoWrapperOuter">
@@ -33,6 +33,10 @@ Speed Painting of a card</p>
     <img class="col three" src="{{ site.baseurl }}/img/Light-Hunters-Drawings.jpg" alt="" title="Light Hunters Artwork"/><br/>
 </div>
 <p class="caption-blog">
-Some pieces of the artworks</p>
+Some pieces of the artwork</p>
+
+<p class="caption-blog">---</p>
+
+<p class="post-blog">If you want to keep updated on the game, follow us on <a href="https://www.facebook.com/DTDAGames/">Facebook</a> or <a href="https://twitter.com/DTDA_Games">Twitter</a>. Stick around!</p>
 
 </div>
