@@ -8,7 +8,7 @@ date: 2017-03-30 - 00:00
     <img class="col three" src="{{ site.baseurl }}/img/cover-Light-Hunters.jpg" alt="" title="Light Hunters"/><br/>
 </div>
 <p class="caption-blog">
-Light Hunters | Batallion of Darkness - A fantasy fighting card game</p>
+Light Hunters | Battalion of Darkness - A fantasy fighting card game</p>
 
 <div class="blog-content">
 <h1 class="blog-title">Introducing Light Hunters</h1>
