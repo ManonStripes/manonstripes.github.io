@@ -199,7 +199,12 @@ p{
     padding: 0 10px;
     font-size: 14px;
     line-height: 24px;
+
 }
+.striked{
+    text-decoration: line-through;
+}
+
 }
 .post-meta {
 font-size: $small-font-size;
@@ -421,7 +426,7 @@ vertical-align: middle;
 font-size: 13px;
 }
 
-/*** Youtube Video Ratio **********************************************************
+/*** Youtube Video Ratio Blog **********************************************************
 */
 .videoWrapperOuter {
   max-width:640px; 
@@ -443,4 +448,16 @@ font-size: 13px;
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/*** Youtube Video Ratio Portfolio **********************************************************
+*/
+.videoWrapperPortfolio {
+    text-align: center;
+    margin: 0 auto;
+
+}
+.lighthunters-colorbg{
+    background-color: #151d20;
+    width: 100%;
 }
