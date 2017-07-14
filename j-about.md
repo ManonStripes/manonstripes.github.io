@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/manon.jpg">
 
 Bonjour !<br/>
-I am Co-founder & Art Director at DTDA.
+I am Co-founder & Art Director at DTDA.<br/>
 <a href="http://www.dtda.fr/">DTDA</a> is a creative agency based in France. We work on exciting new challenges to deliver beautifuly crafted products.
 
 I like to make stuff, stuff that make your eyes happy!<br/>
