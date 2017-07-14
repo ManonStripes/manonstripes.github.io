@@ -7,13 +7,14 @@ permalink: /about/
 <img class="col one right" src="/img/manon.jpg">
 
 Bonjour !<br/>
-I am Co-founder & Art Director at DTDA. Previously an Art Director for the R&D department at Natexo in Paris.
+I am Co-founder & Art Director at DTDA.
+<a href="http://www.dtda.fr/">DTDA</a> is a creative agency based in France. We work on exciting new challenges to deliver beautifuly crafted products.
 
 I like to make stuff, stuff that make your eyes happy!<br/>
 I am also a spaceships and dinosaurs enthusiast, a fierce athlete, a nice cook, a pious watercolorist, a dextrous paper folder and so much more.
 
 <b>Contact:</b><br/>
-You can contact me via our <a href="http://www.dtda.fr/contact.html">DTDA website</a>!
+You can contact me via our <a href="http://www.dtda.fr/contact.html">DTDA website</a> or via <a href="https://www.linkedin.com/in/manon-potier-36b74210a">LinkedIn</a>!
 
 <b>Features:</b><br/>
 Tric Trac: <a href="https://www.trictrac.net/actus/light-hunters-noirs-desseins">Article about Light Hunters</a><br/>

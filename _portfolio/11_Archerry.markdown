@@ -14,7 +14,7 @@ img: /img/thumb-archerry.jpg
 Type : Branding<br/>
 Client : Natexo<br/>
 Date : 2016<br/>
-Status : Work in Progress<br/>
+Status : Abandoned project<br/>
 ---
 </p>
 <div class="img_row">

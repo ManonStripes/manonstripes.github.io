@@ -172,8 +172,7 @@ font-size: 24px;
 .post-content {
 h2 {
 font-size: 25px;
-padding-left: 10px;
-padding-top: 10px;
+padding: 10px 10px 0;
 color: $grey-color;
 @include media-query($on-palm) {
     font-size: 18px;
@@ -455,6 +454,7 @@ font-size: 13px;
 .videoWrapperPortfolio {
     text-align: center;
     margin: 0 auto;
+    background-color: #f1f1f1;
 
 }
 .lighthunters-colorbg{

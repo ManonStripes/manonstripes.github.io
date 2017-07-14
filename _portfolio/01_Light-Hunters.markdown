@@ -11,7 +11,7 @@ img: /img/thumb-LightHunters.jpg
 </div>
 <p class="caption">
 ---<br/>
-Type : Light Hunters<br/>
+Type : Illustration, Art Direction<br/>
 Client : DTDA Games<br/>
 Date : 2017<br/>
 Status : Funded via Kickstarter, in production<br/>
