@@ -16,7 +16,7 @@ When I’m not designing, you’ll probably find me painting with watercolors, p
 
 
 <b>Publications:</b><br/>
-<div class="pub-descr">ARTBOOKS:</div><br/>
+<span class="pub-descr">ARTBOOKS:</span><br/>
 2025 - The Art of Epireia<br/>
 2022 - Mistflowers: A Warrior Goddesses Collection<br/>
 2020 - Bloodflowers: A Warrior Queens Collection<br/>
