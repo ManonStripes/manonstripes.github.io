@@ -7,23 +7,34 @@ permalink: /about/
 <img class="col one right" src="/img/manon.jpg">
 
 Bonjour !<br/>
-I am Co-founder & Art Director at DTDA.<br/>
-<a href="http://www.dtda.fr/">DTDA</a> is a creative agency based in France. We work on exciting new challenges to deliver beautifuly crafted products.
 
-I like to make stuff, stuff that make your eyes happy!<br/>
-I am also a spaceships and dinosaurs enthusiast, a fierce athlete, a nice cook, a pious watercolorist, a dextrous paper folder and so much more.
+I’m Manon Potier, a Product Designer and Art Director based in France. I work as a freelancer with companies to design thoughtful, functional, and visually strong digital products — from early concepts to polished interfaces.<br/>
 
-<b>Contact:</b><br/>
-You can contact me via our <a href="http://www.dtda.fr/contact.html">DTDA website</a> or via <a href="https://www.linkedin.com/in/manon-potier-36b74210a">LinkedIn</a>!
+I’m also the Co-founder of <a href="http://www.dtda.fr/">DTDA</a>, a creative agency where we craft bold identities, design systems, and experiences… and where we also publish our own projects, mixing design, illustration, and storytelling.<br/>
 
-<b>Features:</b><br/>
-Tric Trac: <a href="https://www.trictrac.net/actus/light-hunters-noirs-desseins">Article about Light Hunters</a><br/>
-Maku's Boards: <a href="http://makuboards.com/tests/test-light-hunters/">Article about Light Hunters</a><br/>
-Les Dragons Nains: <a href="http://lesdragonsnains.com/light-hunters-actuellement-kickstarter/">Article about Light Hunters</a>
+When I’m not designing, you’ll probably find me painting with watercolors, practicing fencing, or enjoying anything related to Godzilla.<br/>
+
+
+<b>Publications:</b><br/>
+Artbook:
+2025 - The Art of Epireia
+2022 - Mistflowers: A Warrior Goddesses Collection
+2020 - Bloodflowers: A Warrior Queens Collection
+
+Board Games:
+2025 - Epireia
+2022 - Resonance
+2021 - Apogee
+2019 - Efemeris
+2017 - Light Hunters
+
+Pins Collection:
+2025 - Kurayami
+2023 - Peculiar
 
 
 <b>Dream Projects & Clients:</b><br/>
-Pixel Artist <br/>
+<span class="striked">Pixel Art</span> <br/>
 <span class="striked">Board Game</span> <br/>
 Pop Up Book <br/>
 Fashion Sport<br/>
