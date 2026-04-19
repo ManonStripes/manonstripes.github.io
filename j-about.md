@@ -21,14 +21,14 @@ When I’m not designing, you’ll probably find me painting with watercolors, p
 2022 - Mistflowers: A Warrior Goddesses Collection<br/>
 2020 - Bloodflowers: A Warrior Queens Collection<br/>
 
-<div class="pub-descr">BOARD GAMES:</div><br/>
+<span class="pub-descr">BOARD GAMES:</span><br/>
 2025 - Epireia<br/>
 2022 - Resonance<br/>
 2021 - Apogee<br/>
 2019 - Efemeris<br/>
 2017 - Light Hunters<br/>
 
-<div class="pub-descr">PINS COLLECTION:</div><br/>
+<span class="pub-descr">PINS COLLECTION:</span><br/>
 2025 - Kurayami<br/>
 2023 - Peculiar<br/>
 
