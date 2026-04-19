@@ -37,6 +37,14 @@ color: $theme-color;
 
     font-weight: 700;
 }
+.pub-descr{
+    font-size: 10px;
+    font-weight: 400;
+    color: $grey-color;
+    letter-spacing: 1px;
+     margin-top: 20px;
+
+}
 .site-nav {
 float: right;
 line-height: $nav-height;
