@@ -16,19 +16,19 @@ When I’m not designing, you’ll probably find me painting with watercolors, p
 
 
 <b>Publications:</b><br/>
-Artbook:<br/>
+<div class="site-descr">ARTBOOKS:</div><br/>
 2025 - The Art of Epireia<br/>
 2022 - Mistflowers: A Warrior Goddesses Collection<br/>
 2020 - Bloodflowers: A Warrior Queens Collection<br/>
 
-Board Games:<br/>
+<div class="site-descr">BOARD GAMES:</div><br/>
 2025 - Epireia<br/>
 2022 - Resonance<br/>
 2021 - Apogee<br/>
 2019 - Efemeris<br/>
 2017 - Light Hunters<br/>
 
-Pins Collection:<br/>
+<div class="site-descr">PINS COLLECTION:</div><br/>
 2025 - Kurayami<br/>
 2023 - Peculiar<br/>
 
