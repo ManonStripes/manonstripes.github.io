@@ -12,8 +12,6 @@ img: /img/thumb-pixel.gif
 <p class="caption">
 ---<br/>
 Type : Pixel Art<br/>
-Date : 2016 - Present<br/>
-Status : Each day, i try to make a pixel art for @Pixel_Dailies on <a href="https://twitter.com/{{ site.twitter }}" target="_blank">Twitter</a><br/>
 ---
 </p>
 
