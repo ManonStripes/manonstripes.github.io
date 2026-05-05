@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eLabFTW
-description: UI Design
+description: Product Design
 img: /img/thumb-elab.jpg
 ---
 
@@ -11,13 +11,15 @@ img: /img/thumb-elab.jpg
 </div>
 <p class="caption">
 ---<br/>
-Type : UI Design<br/>
-Client : Nicolas Carpi<br/>
-Date : 2013 - Present<br/>
-Status : Actively developed - Rebranding Ahead<br/>
+Type : Product Design<br/>
+Client : Deltablot<br/>
 ---
 </p>
-If you do experimental research, then <a href="https://www.elabftw.net/">eLabFTW</a> is for you. Whatever your field is. It is also well suited for teachers, or biotech companies.
+eLabFTW is an open-source electronic lab notebook designed for researchers across all disciplines, while also being widely used by teachers, biotech companies, and organizations handling sensitive scientific data. 
+
+As the Product Designer, I lead the design of new features and the continuous improvement of existing user journeys, balancing usability, efficiency, and technical constraints. Working closely with an engaged and diverse user base, I conduct qualitative interviews to better understand real laboratory workflows and translate them into clear, scalable product solutions. 
+
+A strong focus of my work is ensuring visual accessibility across the interface, while also aligning design decisions with cybersecurity best practices, essential for a product dealing with confidential research information. In parallel, I maintain and evolve the design system to ensure consistency, scalability, and smoother collaboration between design and development teams.
 
 
 
