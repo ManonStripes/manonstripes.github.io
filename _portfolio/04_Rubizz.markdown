@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rubizz
-description: UI Design
+description: Product Design
 img: /img/thumb-rubizz.jpg
 ---
 
@@ -11,13 +11,13 @@ img: /img/thumb-rubizz.jpg
 </div>
 <p class="caption">
 ---<br/>
-Type : UI design<br/>
+Type : Product Design<br/>
 Client : Natexo<br/>
-Date : 2015<br/>
-Status : Closed<br/>
 ---
 </p>
+Rubizz is a rewards platform designed to encourage user engagement through incentivized social sharing and interactive participation. 
 
+On this project, I was in charge of the complete product design, shaping both the visual identity and the overall user experience to create a clear, attractive, and motivating interface. My work included designing the main interaction flows and user journeys, ensuring the reward mechanics were easy to understand while keeping the experience smooth and engaging. I also created the illustrations and visual elements that reinforced the playful tone of the product, contributing to a consistent and memorable brand universe across the platform.
 
 
 <div class="img_row">
