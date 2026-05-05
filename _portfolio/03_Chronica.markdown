@@ -24,13 +24,7 @@ As the designer on the project, I was responsible for crafting the full interfac
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica5.jpg" alt="" title="Chronica"/>
-</div>
-<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica3.jpg" alt="" title="Chronica"/>
-</div>
-<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica4.jpg" alt="" title="Chronica"/>
-</div>
-<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica2.jpg" alt="" title="Chronica"/>
 </div>
