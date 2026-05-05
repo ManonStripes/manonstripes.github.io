@@ -13,7 +13,6 @@ img: /img/thumb-coworker.jpg
 ---<br/>
 Type : Illustration<br/>
 client : Natexo<br/>
-Date : 2014 to Present<br/>
 ---
 </p>
 Après la refonte de l'identité de Natexo, nous cherchions une manière d'impliquer chacun des employés de l'entreprise. En respectant l'iconographie de la marque, nous avons créé des avatars pour chacun de nos employés.
