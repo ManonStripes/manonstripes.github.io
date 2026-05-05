@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MyPaperDeal
-description: Branding, UI Design
+description: Product Design
 img: /img/thumb-mpd.jpg
 ---
 
@@ -11,13 +11,13 @@ img: /img/thumb-mpd.jpg
 </div>
 <p class="caption">
 ---<br/>
-Type : Brandind, UI design<br/>
+Type : Product Design<br/>
 Client : Natexo<br/>
-Date : 2014<br/>
-Status : Closed<br/>
 ---
 </p>
+MyPaperDeal was a local coupon platform designed to connect users with nearby deals while giving local businesses the tools to manage their own promotions. 
 
+I was in charge of designing the product from end to end, including both the user-facing website and a dedicated back office interface for merchants. My work covered the full product design process, from defining user flows and key features to creating wireframes and final UI screens. A major focus of the project was building a clear and efficient dashboard that allowed businesses to easily create, publish, and monitor their coupons, while ensuring a smooth and intuitive experience for users browsing offers.
 
 
 <div class="img_row">
