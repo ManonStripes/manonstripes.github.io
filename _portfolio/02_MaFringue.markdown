@@ -11,12 +11,16 @@ img: /img/thumb-mafringue.jpg
 </div>
 <p class="caption">
 ---<br/>
-Type : Brandind, UI design<br/>
+Type : Branding, Product Design<br/>
 Client : Natexo<br/>
-Date : 2015-Now<br/>
-Status : Developing<br/>
 ---
 </p>
+MaFringue is a French fashion price comparison platform acquired by Agence Natexo, and I was in charge of transforming it from a functional service into a fully established brand. 
+
+My role covered the complete redesign of its visual identity, defining a clearer positioning and a more engaging tone to better connect with fashion-oriented users. 
+From a product design perspective, I led the UX and UI work across the entire website, including persona creation, user journeys, wireframes, and the design of responsive desktop and mobile interfaces. The project was built through an iterative process, resulting in an MVP designed to evolve progressively toward a more social and community-driven fashion experience. 
+
+In parallel, I defined the social media communication strategy and created the design briefs that were then executed by the agency’s studio team.
 
 
 
