@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper Tales
-description: Calligraphy
+description: Product Design
 img: /img/thumb-PaperTales.jpg
 ---
 
