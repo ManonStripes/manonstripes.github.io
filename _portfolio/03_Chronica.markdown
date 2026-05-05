@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chronicα
-description: Product Design, Illustration
+description: Product Design
 img: /img/thumb-chronica.jpg
 ---
 
@@ -11,7 +11,7 @@ img: /img/thumb-chronica.jpg
 </div>
 <p class="caption">
 ---<br/>
-Type : Branding, Product Design<br/>
+Type : Product Design<br/>
 Client : DTDA Games x Questions d'Histoire<br/>
 ---
 </p>
