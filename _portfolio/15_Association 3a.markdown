@@ -13,8 +13,6 @@ img: /img/thumb-3a.jpg
 ---<br/>
 Type : branding<br/>
 Client : Association 3a<br/>
-Date : 2016<br/>
-Status : Achieved<br/>
 ---
 </p>
 
