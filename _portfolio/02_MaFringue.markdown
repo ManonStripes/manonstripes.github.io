@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MaFringue
-description: Branding
+description: Product Design, Branding
 img: /img/thumb-mafringue.jpg
 ---
 
