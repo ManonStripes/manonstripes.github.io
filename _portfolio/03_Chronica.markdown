@@ -21,3 +21,16 @@ Chronicα is an educational app curated by the French community of history YouTu
 The platform combines video discovery with quizzes, mini-games, and learning modules to encourage users to explore historical topics in a more engaging way. The goal was to create a ludic and dynamic product aimed at teenagers and young adults, more aligned with a high school audience than a children’s app. 
 
 As the designer on the project, I was responsible for crafting the full interface, creating the illustrations, and defining the overall visual direction to support a strong educational identity. I also led the gamification strategy, including level design and progression systems, ensuring the experience remained motivating, accessible, and consistent with the creators’ tone while still delivering meaningful educational value.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica5.jpg" alt="" title="Chronica"/>
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica3.jpg" alt="" title="Chronica"/>
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica4.jpg" alt="" title="Chronica"/>
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Chronica/Chronica2.jpg" alt="" title="Chronica"/>
+</div>
