@@ -2,7 +2,7 @@
 layout: post
 title: Epireia
 description: Illustration, Art Direction
-img: /img/thumb-Epireia.jpg
+img: /img/thumb-epireia.jpg
 ---
 <h1 class="post-title">{{ page.title }}</h1>
 <div class="img_row">
