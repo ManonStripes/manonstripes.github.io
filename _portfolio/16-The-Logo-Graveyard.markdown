@@ -11,7 +11,7 @@ img: /img/thumb-logos.jpg
 ---<br/>
 Type : Logotype<br/>
 Client : Various<br/>
-Date : 2015-Present<br/>
+Date : 2015-2018<br/>
 Status : Rejected Logotypes for various projects<br/>
 ---
 </p>
