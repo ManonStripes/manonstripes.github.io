@@ -2,7 +2,7 @@
 layout: post
 title: Pyrophora
 description: Illustration, Art Direction
-img: /img/thumb-cally.jpg
+img: /img/thumb-pyrophora.jpg
 ---
 
 <h1 class="post-title">{{ page.title }}</h1>
