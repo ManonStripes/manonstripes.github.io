@@ -6,7 +6,7 @@ img: /img/thumb-italia2.jpg
 ---
 <h1 class="post-title">{{ page.title }}</h1>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/Italia-01.jpg" alt="" title="Italia 1497"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-01.jpg" alt="" title="Italia 1497"/>
 </div>
 <p class="caption">
 ---<br/>
@@ -15,4 +15,6 @@ Client : DTDA Games x Episodes d'Histoire<br/>
 ---
 </p>
 
-Page en Construction
+Italia 1497 is a strategy and war board game designed in collaboration with the French YouTube channel Épisodes d’Histoire, inspired by the Italian Wars and their political and military conflicts. 
+
+On this project, I was responsible for the art direction and illustration work, defining a strong visual identity that supported the historical theme while remaining clear and functional for gameplay. I also contributed to playtesting and iterative improvements to ensure a balanced and engaging player experience. In parallel, I worked on the crowdfunding campaign on Ulule, creating visuals and communication assets tailored to the French market. Finally, I managed the production follow-up and quality control, ensuring consistency between the creative vision and the final manufactured product.
