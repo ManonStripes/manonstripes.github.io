@@ -23,21 +23,20 @@ I also led the artistic direction, including graphic research and illustration, 
 In addition, I worked on the merchandising products released alongside the game, as well as print installations and promotional materials designed for events and campaign communication.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-02.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-03.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-04.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-05.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-06.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-07.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-08.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-09.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-10.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-11.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-12.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-13.jpg" alt="" title="Epireia"/>
-	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-14.jpg" alt="" title="Epireia"/>
-	<div class="videoWrapperPortfolio" style="background-color:#e6d9c8;">
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-02.jpg" alt="" title="Box and boards"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-03.jpg" alt="" title="Epireia Box"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-04.jpg" alt="" title="Epireia Mock up"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-05.jpg" alt="" title="Illustrations"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-06.jpg" alt="" title="Epireia Illustrations"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-07.jpg" alt="" title="Iconography"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-08.jpg" alt="" title="Epireia Icons"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-09.jpg" alt="" title="Graphic Design"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-10.jpg" alt="" title="Epireia Graphic posters"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-11.jpg" alt="" title="Epireia Graphic posters"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-12.jpg" alt="" title="Add-ons"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-13.jpg" alt="" title="Epireia Artbook and Enamel Pins"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-14.jpg" alt="" title="Epireia Trailer"/>
+	<div class="videoWrapperPortfolio" style="background-color:#e6d9c8;padding-bottom:40px;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/mXbpWInX7qE?si=D24LNHd1NV8bIzsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	<br/>
 	</div>
 </div>
