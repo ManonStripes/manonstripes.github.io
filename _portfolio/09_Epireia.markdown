@@ -38,5 +38,6 @@ In addition, I worked on the merchandising products released alongside the game,
 	<img class="col three" src="{{ site.baseurl }}/img/Epireia/Epireia-14.jpg" alt="" title="Epireia"/>
 	<div class="videoWrapperPortfolio" style="background-color:#e6d9c8;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/mXbpWInX7qE?si=D24LNHd1NV8bIzsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<br/>
 	</div>
 </div>
