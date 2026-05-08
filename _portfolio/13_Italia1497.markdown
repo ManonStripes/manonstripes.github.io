@@ -18,3 +18,30 @@ Client : DTDA Games x Episodes d'Histoire<br/>
 Italia 1497 is a strategy and war board game designed in collaboration with the French YouTube channel Épisodes d’Histoire, inspired by the Italian Wars and their political and military conflicts. 
 
 On this project, I was responsible for the art direction and illustration work, defining a strong visual identity that supported the historical theme while remaining clear and functional for gameplay. I also contributed to playtesting and iterative improvements to ensure a balanced and engaging player experience. In parallel, I worked on the crowdfunding campaign on Ulule, creating visuals and communication assets tailored to the French market. Finally, I managed the production follow-up and quality control, ensuring consistency between the creative vision and the final manufactured product.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-02.jpg" alt="" title="Box design"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-03.jpg" alt="" title="Italia 1497 Box"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-04.jpg" alt="" title="Map Boards"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-05.jpg" alt="" title="Italia 1497 map boards"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-06.jpg" alt="" title="Player Boards"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-07.jpg" alt="" title="Italia 1497 player boards"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-08.jpg" alt="" title="Illustrations"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-09.jpg" alt="" title="Heraldic illustration"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-10.jpg" alt="" title="Spain illustrations"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-11.jpg" alt="" title="SERG illustration"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-12.jpg" alt="" title="Spain illustration"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-13.jpg" alt="" title="SERG illustration"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-14.jpg" alt="" title="Animations"/>
+	<div style="background-image: url('{{ site.baseurl }}/img/Italia/Italia-15.jpg');">
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/tableau-22.gif" alt="" title="Animated painting"/>
+		<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-16.jpg" alt="" title="Italia 1497"/>
+		<img class="col three" src="{{ site.baseurl }}/img/Italia/tableau-gif2.gif" alt="" title="Animated painting"/>
+	</div>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-15.jpg" alt="" title="bg"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-16.jpg" alt="" title="Italia 1497"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-17.jpg" alt="" title="Social posts"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-18.jpg" alt="" title="Italia 1497 social posts 1"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-19.jpg" alt="" title="Italia 1497 social posts 2"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-20.jpg" alt="" title="Italia 1497 Mock up"/>
+</div>
