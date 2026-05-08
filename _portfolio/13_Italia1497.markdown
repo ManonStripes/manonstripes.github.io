@@ -33,10 +33,10 @@ On this project, I was responsible for the art direction and illustration work, 
 	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-12.jpg" alt="" title="Spain illustration"/>
 	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-13.jpg" alt="" title="SERG illustration"/>
 	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-14.jpg" alt="" title="Animations"/>
-	<div style="background-image: url('{{ site.baseurl }}/img/Italia/Italia-15.jpg');">
-	<img class="col three" src="{{ site.baseurl }}/img/Italia/tableau-22.gif" alt="" title="Animated painting" width="880px"/>
+	<div class="col three" style="background-image: url('{{ site.baseurl }}/img/Italia/Italia-15.jpg');">
+	<img class="col three" src="{{ site.baseurl }}/img/Italia/tableau-22.gif" alt="" title="Animated painting" width="680px"/>
 		<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-16.jpg" alt="" title="Italia 1497"/>
-		<img class="col three" src="{{ site.baseurl }}/img/Italia/tableau-gif2.gif" alt="" title="Animated painting" width="880px"/>
+		<img class="col three" src="{{ site.baseurl }}/img/Italia/tableau-gif2.gif" alt="" title="Animated painting" width="680px"/>
 	</div>
 	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-15.jpg" alt="" title="bg"/>
 	<img class="col three" src="{{ site.baseurl }}/img/Italia/Italia-16.jpg" alt="" title="Italia 1497"/>
