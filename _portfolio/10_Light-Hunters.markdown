@@ -17,8 +17,11 @@ Date : 2017<br/>
 Status : Funded via Kickstarter, in production<br/>
 ---
 </p>
-Light Hunters is a Heroic Fantasy card game for 2-8 players. Work as a team to form your battalion and crush the enemy camp.<br/>
-This project was crowdfunded via <a href="https://www.kickstarter.com/projects/dtdagames/light-hunters-battalion-of-darkness">Kickstarter</a>.
+Light Hunters is a card game project for which I was involved across the entire creation and production pipeline, from early development to launch. 
+
+I worked on the full visual direction of the game, including illustration and the design of every component, ensuring consistency between gameplay needs and the overall artistic identity. Throughout the project, I participated in playtesting sessions and iterative adjustments to improve balance, clarity, and player experience. 
+
+I also produced promotional content, including video creation and communication assets, and played a key role in managing the crowdfunding campaign, from campaign preparation to day-to-day coordination. This project allowed me to combine game design thinking, visual storytelling, and production management into a complete end-to-end publishing experience.
 
 
 <div class="img_row">
