@@ -6,7 +6,7 @@ img: /img/thumb-apogee.jpg
 ---
 <h1 class="post-title">{{ page.title }}</h1>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/Apogee-01.jpg" alt="" title="Apogee"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Apogee/Apogee-01.jpg" alt="" title="Apogee"/>
 </div>
 <p class="caption">
 ---<br/>
@@ -15,4 +15,6 @@ Client : DTDA Games x Deltaspace <br/>
 ---
 </p>
 
-Page en Construction
+Apogee is a card management game focused on modern rocketry and the rise of the “New Space” industry, created in collaboration with Space News YouTubers. Players take the role of a space company, managing engineers, developing new technologies, and designing rockets to achieve ambitious missions. 
+
+On this project, I worked on the illustration and overall visual identity, ensuring the graphic direction supported both immersion and gameplay readability. I also contributed to refining the game experience through playtesting and iteration, helping improve balance, clarity, and player progression. In parallel, I created key promotional visuals and participated in the preparation of the crowdfunding campaign, supporting the project’s communication and launch strategy.
