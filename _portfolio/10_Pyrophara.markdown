@@ -21,3 +21,17 @@ Client : DTDA Games<br/>
 Each puzzle features detailed artwork enhanced with golden stamping, and the collection is complemented by a mini-game made of illustrated tiles, expanding the experience beyond the puzzle itself. 
 
 For this project, I created all the illustrations and defined the visual direction of the collection, ensuring strong consistency across the three designs. I also supervised the production process, working closely with manufacturers to maintain quality and finish, and managed the full crowdfunding campaign, from preparation to communication assets and launch strategy.
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-02.jpg" alt="" title="Pyrophora - Puzzle Collection + Mini-Games"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-03.jpg" alt="" title="Pyrophora Amokye"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-04.jpg" alt="" title="Pyrophora Hermes"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-05.jpg" alt="" title="Pyrophora Xolotl"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-06.jpg" alt="" title="Pyrophora Amokye Mini-Game"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-07.jpg" alt="" title="Amokye"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-08.jpg" alt="" title="Pyrophora Hermes Mini-Game"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-09.jpg" alt="" title="Hermes"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-10.jpg" alt="" title="Pyrophora Xolotl Mini-Game"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Pyrophora/Pyrophora-11.jpg" alt="" title="Xolotl"/>
+	
+</div>
