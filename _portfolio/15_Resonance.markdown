@@ -6,7 +6,7 @@ img: /img/thumb-resonance.jpg
 ---
 <h1 class="post-title">{{ page.title }}</h1>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/Resonance-01.jpg" alt="" title="Resonance"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Resonance/Resonance-01.jpg" alt="" title="Resonance"/>
 </div>
 <p class="caption">
 ---<br/>
