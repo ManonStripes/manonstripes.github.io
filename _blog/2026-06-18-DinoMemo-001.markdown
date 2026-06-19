@@ -4,19 +4,12 @@ title: Dino Memo 001
 date: 2026-06-18 - 00:00
 ---
 
+<div class="blog-content">
+<h1 class="blog-title">Dino Memo 001</h1>
+</div>
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/img/Blog/DinoMemo001.jpg" alt="" title="Dino Memo 001"/><br/>
 </div>
 <p class="caption-blog">
 Dino Memo 001</p>
 
-<div class="blog-content">
-<h1 class="blog-title">Dino Memo 001</h1>
-
-
-
-
-
-
-
-</div>
