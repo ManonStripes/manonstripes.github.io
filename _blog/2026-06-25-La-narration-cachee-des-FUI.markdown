@@ -32,9 +32,21 @@ Vraiment, je vous assure. Les décors, les costumes, les props, le graphisme, et
 
 <p class="post-blog">Pourtant, dans certains films, ces <i>FUI</i> font bien plus que de la figuration : elles nous donnent des informations, parfois même elles racontent une histoire entière en quelques secondes. Et le plus fascinant, c’est qu’on ne s’en rend presque pas compte. Les designers de ces écrans utilisent des codes visuels que nous avons intégrés de manière quasi universelle.<br/><br/>
 
-Je vous donne un exemple : <br/>
-Dans <i>Independence Day</i> (1996), après l’attaque alien de Los Angeles, New York et Washington, les États-Unis lancent leur première riposte sous la forme d’une attaque aérienne massive. De nombreux avions de chasse apparaissent à l’écran, coordonnés depuis un centre de commandement via une interface de gestion de flotte : une série d’icônes de chasseurs schématisés en vert.<br/><br/>
-Puis, au fur et à mesure de l’opération, ces icônes passent progressivement au rouge.<br/><br/>
+Je vous donne un exemple : 
+<div class="img_row">
+    <img class="col three" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QwZHZ0dnZ5MGY2Z2J0aDhldmY0Y2J6MTJwZHZyZHNzaTVmYnN1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZKtfwdu3RESh5KjNY/giphy.gif" alt="" title="Independence Day"/><br/>
+</div>
+<p class="caption-blog">Independence Day - Contre-attaque</p>
+Dans <i>Independence Day</i> (1996), après l’attaque alien de Los Angeles, New York et Washington, les États-Unis lancent leur première riposte sous la forme d’une attaque aérienne massive. De nombreux avions de chasse apparaissent à l’écran, coordonnés depuis un centre de commandement via une interface de gestion de flotte : une série d’icônes de chasseurs schématisés en vert.
+<div class="img_row">
+    <img class="col three" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x1cHp5dnVuMzI2czhudGQxYWdkN3Bha3ZmeDNueW1zaHFocjF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mUrNNL4dmUhh3U5Bz3/giphy.gif" alt="" title="Independence Day"/><br/>
+</div>
+<p class="caption-blog">Independence Day - Suivi des Fighter Jets 2<</p>
+Puis, au fur et à mesure de l’opération, ces icônes passent progressivement au rouge.
+<div class="img_row">
+    <img class="col three" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRqemJiMmxicDBkMTkwc2oydmhsNGp3cWo5czAxMHcyZmp1aDdleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKX110SNKJADd3YjKC/giphy.gif" alt="" title="Independence Day"/><br/>
+</div>
+<p class="caption-blog">Independence Day - Suivi des Fighter Jets 2</p>
 En quelques secondes, le spectateur comprend qu’il n’y aura pas beaucoup de survivants à cette offensive, sans voir explicitement la destruction de la centaines d’appareils engagés.<br/><br/>
 La <i>FUI</i> devient ici un outil de compression narrative extrêmement efficace… mais nous y reviendrons.<br/><br/>
 Ce type d’interface appartient à une famille particulière de <i>FUI</i> : les interfaces de suivi. Leur rôle n’est pas seulement d’afficher des informations, mais de raconter une situation.
@@ -80,11 +92,17 @@ Aucune explication technique n’est nécessaire. Le spectateur comprend, visuel
 <h3>Changement de point de vue</h3>
 <p class="post-blog">Ces <i>FUI</i> apparaissent généralement dans des centres de commande ou des salles d’opération.<br/><br/>
 Elles permettent de passer du point de vue de l’action à celui de l’observation. Au lieu de suivre directement un soldat, un pilote ou le héros, on observe ceux qui analysent la situation depuis un espace de contrôle.<br/><br/>
-Dans <i>Battleship</i> (2012), cinq vaisseaux aliens arrivent sur Terre (Encore ? Mais c’est du harcèlement !).<br/><br/>
+Dans <i>Battleship</i> (2012), cinq vaisseaux aliens arrivent sur Terre (Encore ? Mais c’est du harcèlement !).
 <div class="img_row">
     <img class="col three" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYyZDdzNHhtNHJ6OTgwcTYweWpldmV4YmRhenBnMWRidnAxczRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nELQoBjPtwJjFhhS54/giphy.gif" alt="" title="Battleship"/><br/>
 </div>
-Sur les écrans du SETI, de la NASA et de l’Air Force, cinq triangles apparaissent. L’un d’eux percute un satellite et passe immédiatement en rouge clignotant avant de s’écraser à Hong Kong.<br/><br/>
+<p class="caption-blog">Battleship - Arrivée des 5 vaisseaux aliens</p>
+Sur les écrans du SETI, de la NASA et de l’Air Force, cinq triangles apparaissent. L’un d’eux percute un satellite et passe immédiatement en rouge clignotant avant de s’écraser à Hong Kong.
+<div class="img_row">
+    <img class="col three" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGdvaDkyd3B4cjZwNjJoN3drOTgxYWNteTF4MzRtcmk5OXNtN3EydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gp85aYF4ZfqT2bABs5/giphy.gif" alt="" title="Battleship"/><br/>
+</div>
+<p class="caption-blog">Battleship - Entrée des 5 vaisseaux aliens</p>
+
 L’interface trace leur trajectoire : Terre, puis Hawaï, avec des cartes simplifiées permettant de contextualiser instantanément la menace.<br/><br/>
 On s’intéresse autant aux données qu’aux réactions humaines face à ces données : scientifiques déstabilisés, militaires en calcul, opérateurs en tension.
 </p>
