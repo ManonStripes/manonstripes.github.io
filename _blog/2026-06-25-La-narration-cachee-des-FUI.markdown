@@ -47,8 +47,8 @@ Je vous donne un exemple : <br/></p>
 <div class="img_row">
     <img class="col three" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x1cHp5dnVuMzI2czhudGQxYWdkN3Bha3ZmeDNueW1zaHFocjF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mUrNNL4dmUhh3U5Bz3/giphy.gif" alt="" title="Independence Day"/><br/>
 </div>
-<p class="caption-blog">Independence Day - Suivi des Fighter Jets 2<</p>
-Puis, au fur et à mesure de l’opération, ces icônes passent progressivement au rouge.<br/></div>
+<p class="caption-blog">Independence Day - Suivi des Fighter Jets 2</p>
+Puis, au fur et à mesure de l’opération, ces icônes passent progressivement au rouge.<br/></p>
 <div class="img_row">
     <img class="col three" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRqemJiMmxicDBkMTkwc2oydmhsNGp3cWo5czAxMHcyZmp1aDdleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dKX110SNKJADd3YjKC/giphy.gif" alt="" title="Independence Day"/><br/>
 </div>
@@ -180,9 +180,8 @@ Pourtant, tous les films ne tirent pas réellement parti de leurs interfaces. Da
 </p>
 
 
+</div>
 
 
 
 
-
-</div> 
