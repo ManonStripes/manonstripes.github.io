@@ -61,7 +61,7 @@ Le rouge vient ensuite recouvrir progressivement les statuts restants, en contra
     <b>Suivi de système</b><br/>
 Les <i>FUI</i> permettent aussi de rendre compréhensibles des systèmes complexes.<br/><br/>
 Ni vous, ni moi, ne sommes ingénieurs de vaisseaux interstellaires, pourtant ces interfaces nous permettent de comprendre instantanément ce qui se passe.<br/><br/>
-Dans <i>Passengers</i> (2016), un plan holographique du vaisseau Avalon dans la salle de contrôle synthétise l’état du système en temps réel.<br/><br/>
+Dans <i>Passengers</i> (2016), un plan holographique du vaisseau Avalon dans la salle de contrôle synthétise l’état du système en temps réel.
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/img/FUI/passenger1.gif" alt="" title="Passengers"/><br/>
 </div>
@@ -81,6 +81,9 @@ Aucune explication technique n’est nécessaire. Le spectateur comprend, visuel
 <p class="post-blog">Ces <i>FUI</i> apparaissent généralement dans des centres de commande ou des salles d’opération.<br/><br/>
 Elles permettent de passer du point de vue de l’action à celui de l’observation. Au lieu de suivre directement un soldat, un pilote ou le héros, on observe ceux qui analysent la situation depuis un espace de contrôle.<br/><br/>
 Dans <i>Battleship</i> (2012), cinq vaisseaux aliens arrivent sur Terre (Encore ? Mais c’est du harcèlement !).<br/><br/>
+<div class="img_row">
+    <img class="col three" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYyZDdzNHhtNHJ6OTgwcTYweWpldmV4YmRhenBnMWRidnAxczRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nELQoBjPtwJjFhhS54/giphy.gif" alt="" title="Battleship"/><br/>
+</div>
 Sur les écrans du SETI, de la NASA et de l’Air Force, cinq triangles apparaissent. L’un d’eux percute un satellite et passe immédiatement en rouge clignotant avant de s’écraser à Hong Kong.<br/><br/>
 L’interface trace leur trajectoire : Terre, puis Hawaï, avec des cartes simplifiées permettant de contextualiser instantanément la menace.<br/><br/>
 On s’intéresse autant aux données qu’aux réactions humaines face à ces données : scientifiques déstabilisés, militaires en calcul, opérateurs en tension.
