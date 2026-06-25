@@ -11,7 +11,7 @@ date: 2026-06-25 00:00:00
 
 <div class="blog-content">
     <h1 class="blog-title"><br/>La narration cachée des Fictionnal User Interface (FUI) au cinéma</h1>
-    <h2>Les FUI : l’arme secrète du cinéma pour nous manipuler sans qu’on s’en rende compte !<br/><br/></h2>
+    <h2>L’arme secrète du cinéma pour nous manipuler sans qu’on s’en rende compte !<br/><br/></h2>
 
 
 
@@ -61,10 +61,22 @@ Ce type d’interface appartient à une famille particulière de <i>FUI</i> : le
 
 <b>Suivi d’individus</b><br/>
 Dans <i>Jurassic World</i> (2015), lorsque l’Indominus Rex s’échappe, l’équipe de sécurité du parc est envoyée pour le contenir, avec toute la cordialité possible dans ce genre de situation.<br/><br/>
-L’unité progresse sur le terrain pendant que, dans la salle de contrôle, un écran géant affiche leur feed vidéo et leur statut sous forme de card : portrait, nom, grade, matricule, et rythme cardiaque.<br/><br/>
+L’unité progresse sur le terrain pendant que, dans la salle de contrôle, un écran géant affiche leur feed vidéo et leur statut sous forme de card : portrait, nom, grade, matricule, et rythme cardiaque.
+<div class="img_row">
+    <img class="col three" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3g1NGhzMDRjdjZ5ZmRwcHB5cmljeGFrN3Q5dmI4cWU4MTMxdGc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R1IcBjxsOy84OAloAi/giphy.gif" alt="" title="Jurassic World"/><br/>
+</div>
+<p class="caption-blog">Jurassic World - Suivi de l'équipe de sécurité du parc</p>
 On remarque d’ailleurs que l’interface affiche huit agents, alors qu’ils sont plus nombreux sur le terrain. Comme dans <i>Independence Day</i>, qui nous montre 12 chasseurs sur la centaine réellement au combat, l’objectif n’est pas l’exhaustivité, mais la lisibilité immédiate : assez d’éléments pour suggérer un suivi individuel, sans saturer l’écran.
-<br/><br/>Puis les événements s’enchaînent. Vous vous en doutez le dinosaure n’a pas été très coopératif. Les agents disparaissent un à un, en commençant par le commandant Hamada. Même si la scène montre directement sa mort, l’interface la confirme pour les observateurs (le spectateurs et les personnages en salle de contrôle) via un signal clair : aplatissement du rythme cardiaque, ligne droite rouge, bip prolongé. Un langage visuel universel, immédiatement compréhensible.<br/><br/>
+<br/><br/>Puis les événements s’enchaînent. Vous vous en doutez le dinosaure n’a pas été très coopératif. Les agents disparaissent un à un, en commençant par le commandant Hamada. Même si la scène montre directement sa mort, l’interface la confirme pour les observateurs (le spectateurs et les personnages en salle de contrôle) via un signal clair : aplatissement du rythme cardiaque, ligne droite rouge, bip prolongé. Un langage visuel universel, immédiatement compréhensible.
+<div class="img_row">
+    <img class="col three" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVjZXN2MHh4OHBsN2NocnV3aHhjNjRsY3A5eHByenkxbjY4ZW5yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ox2vdLGaRyZ6mzLx1j/giphy.gif" alt="" title="Jurassic World"/><br/>
+</div>
+<p class="caption-blog">Jurassic World - Mort d'Hamada</p>
 Le rouge vient ensuite recouvrir progressivement les statuts restants, en contraste avec le bleu de l’interface. Même aperçu une seconde, le spectateur comprend déjà l’échec de la mission.
+<div class="img_row">
+    <img class="col three" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ0d2YwaDVuNHZueXFnZWV5cmYzYXp6MGRtN21qZTR0bmc3cnE2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C0FmVhAMzYbUKBU7iY/giphy.gif" alt="" title="Jurassic World"/><br/>
+</div>
+<p class="caption-blog">Jurassic World - </p>
 </p>
 
 
